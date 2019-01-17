@@ -2,4 +2,5 @@ go left
 go right
 go back
 jump
+slide to the side
 return to front
