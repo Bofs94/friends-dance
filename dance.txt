@@ -1,0 +1,5 @@
+go left
+go right
+go back
+jump
+return to front
